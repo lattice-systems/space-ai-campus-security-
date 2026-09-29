@@ -1,0 +1,15 @@
+{
+  "name": "SpaceIA Control de Acceso",
+  "short_name": "SpaceIA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafb",
+  "theme_color": "#245f65",
+  "icons": [
+    {
+      "src": "images/spaceai-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
